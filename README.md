@@ -1,5 +1,7 @@
 # Handpalm_Detect
-EqualizeHist, GaussianBlur, Canny algorithm which is we used in that project \n
+EqualizeHist, GaussianBlur, Canny algorithm which is we used in that project
+
+
 In another side, we used machine learning algorithm from line length algoithm and we assign our datas to excel tables which name is palm_info.xlsx.
 We had 4 line lengths in palm_info tables (life_line, head_line,heart_line,fate_line) also we had gender information in there.
 We convert our gender datas m(male) and f(female) to 0 and 1.
